@@ -4,4 +4,5 @@ project(untitled)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(untitled
-        "quick proj.cpp")
+        "quick proj.cpp"
+        proj.cpp)
